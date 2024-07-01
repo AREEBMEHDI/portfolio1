@@ -27,6 +27,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "postdeploy": "echo 'Deployed!'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
