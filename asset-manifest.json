@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.1490df6a.css",
+    "main.js": "/portfolio1/static/js/main.1954545d.js",
+    "static/js/770.b477def6.chunk.js": "/portfolio1/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio1/static/js/453.1407b060.chunk.js",
+    "static/media/avatar2.png": "/portfolio1/static/media/avatar2.edd2275849fb450d7b1e.png",
+    "static/media/avatar1.png": "/portfolio1/static/media/avatar1.992afc99babb8fd68263.png",
+    "static/media/darehussain.png": "/portfolio1/static/media/darehussain.e54226ea5ec3e79d058a.png",
+    "static/media/strategic.png": "/portfolio1/static/media/strategic.67f1fe32b5c731541a63.png",
+    "static/media/rozgar.png": "/portfolio1/static/media/rozgar.c37754655f6300dfb3ac.png",
+    "static/media/logo1.png": "/portfolio1/static/media/logo1.69cf1cddb6baa6379e18.png",
+    "static/media/about.png": "/portfolio1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Areebresume.pdf": "/portfolio1/static/media/Areebresume.ed64b8377ff6bdfdc2a5.pdf",
+    "static/media/home-bg.jpg": "/portfolio1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio1/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio1/index.html",
+    "main.1490df6a.css.map": "/portfolio1/static/css/main.1490df6a.css.map",
+    "main.1954545d.js.map": "/portfolio1/static/js/main.1954545d.js.map",
+    "770.b477def6.chunk.js.map": "/portfolio1/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio1/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1490df6a.css",
+    "static/js/main.1954545d.js"
+  ]
+}
